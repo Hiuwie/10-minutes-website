@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.95215948.css",
-    "main.js": "/static/js/main.94847c54.js",
+    "main.js": "/static/js/main.0ca2f050.js",
     "static/media/MAGCover-TTMBHA.jpg": "/static/media/MAGCover-TTMBHA.f37ed25d0b79654a6958.jpg",
     "static/media/MAGCover-FLVME.jpg": "/static/media/MAGCover-FLVME.7c3a7759f490b47c89ae.jpg",
     "static/media/MAGCover-MPITCH.jpg": "/static/media/MAGCover-MPITCH.141ea50d7e31eed1edef.jpg",
@@ -13,10 +13,10 @@
     "static/media/About-Us-cover-For-Mobile.png": "/static/media/About-Us-cover-For-Mobile.9b5e3cba6dc6713c3613.png",
     "index.html": "/index.html",
     "main.95215948.css.map": "/static/css/main.95215948.css.map",
-    "main.94847c54.js.map": "/static/js/main.94847c54.js.map"
+    "main.0ca2f050.js.map": "/static/js/main.0ca2f050.js.map"
   },
   "entrypoints": [
     "static/css/main.95215948.css",
-    "static/js/main.94847c54.js"
+    "static/js/main.0ca2f050.js"
   ]
 }
