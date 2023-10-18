@@ -1,22 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.1b221ff0.css",
-    "main.js": "/static/js/main.0ab63c42.js",
-    "static/media/MAGCover-Women.jpg": "/static/media/MAGCover-Women.82306bcde64d914a6dd3.jpg",
-    "static/media/MAGCover-TTMBHA.jpg": "/static/media/MAGCover-TTMBHA.f37ed25d0b79654a6958.jpg",
-    "static/media/MAGCover-FLVME.jpg": "/static/media/MAGCover-FLVME.7c3a7759f490b47c89ae.jpg",
-    "static/media/MAGCover-TBO-Touch.jpg": "/static/media/MAGCover-TBO-Touch.266998a8e46a872a3908.jpg",
-    "static/media/MAGCover-KLY.jpg": "/static/media/MAGCover-KLY.17f498c6aaae1b423131.jpg",
-    "static/media/MagCover1.png": "/static/media/MagCover1.d27677201ac7edd546dd.png",
+    "main.css": "/static/css/main.30c5d346.css",
+    "main.js": "/static/js/main.087dde37.js",
+    "static/media/Flat_Lay_Book.jpg": "/static/media/Flat_Lay_Book.e48039095710f77f3c57.jpg",
     "static/media/banner_bg.svg": "/static/media/banner_bg.321abf976f39dcdde59b.svg",
     "static/media/About-Us-cover.png": "/static/media/About-Us-cover.92c688580424dbcb1901.png",
     "static/media/About-Us-cover-For-Mobile.png": "/static/media/About-Us-cover-For-Mobile.9b5e3cba6dc6713c3613.png",
     "index.html": "/index.html",
-    "main.1b221ff0.css.map": "/static/css/main.1b221ff0.css.map",
-    "main.0ab63c42.js.map": "/static/js/main.0ab63c42.js.map"
+    "main.30c5d346.css.map": "/static/css/main.30c5d346.css.map",
+    "main.087dde37.js.map": "/static/js/main.087dde37.js.map"
   },
   "entrypoints": [
-    "static/css/main.1b221ff0.css",
-    "static/js/main.0ab63c42.js"
+    "static/css/main.30c5d346.css",
+    "static/js/main.087dde37.js"
   ]
 }
